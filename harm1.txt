@@ -1,2 +1,3 @@
 hallo, dit is versie 1 van harm1.txt
 dit is een extra lijn
+Dit is een extra regel
