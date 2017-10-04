@@ -1,2 +1,3 @@
 hallo, dit is versie 2 van anna2
 dit is een nieuwe regel x
+Dit is een extra regel.
